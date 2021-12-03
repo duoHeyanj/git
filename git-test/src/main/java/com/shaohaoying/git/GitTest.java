@@ -7,6 +7,7 @@ public class GitTest {
         System.out.println("邵好英250");
         System.out.println("邵好英屁王");
         System.out.println("邵好英大头");
+        System.out.println("屁王每天都放屁");
         System.out.println("大头女儿和它的陈爸爸");
     }
 
