@@ -10,7 +10,8 @@ public class GitTest {
         System.out.println("屁王每天都放屁");
         System.out.println("大头女儿和它的陈爸爸");
         System.out.println("push Test");
-        System.out.println("pull Test")
+        System.out.println("pull Test");
+        System.out.println("哈哈哈哈");
     }
 
 
