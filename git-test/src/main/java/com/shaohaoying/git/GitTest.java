@@ -12,6 +12,11 @@ public class GitTest {
         System.out.println("push Test");
         System.out.println("pull Test");
         System.out.println("哈哈哈哈");
+        System.out.println("你屋里婆婆恰菠萝，咿呀咿呀哟");
+        System.out.println("你屋里婆婆恰菠萝，咿呀咿呀哟");
+        System.out.println("你屋里婆婆恰菠萝，咿呀咿呀哟");
+        System.out.println("你屋里婆婆恰菠萝，咿呀咿呀哟");
+        
     }
 
 
